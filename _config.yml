@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "dcalegar.webp"
   name             : "Dr. Ing. Daniel Calegari"
-  pronouns         : # example: "she/her"  
+  pronouns         : ""# example: "she/her"  
   bio              : ""
   location         : "11100 Montevideo, Uruguay"
   employer         : "Universidad ORT Uruguay"
